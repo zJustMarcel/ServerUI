@@ -1,10 +1,10 @@
 # ServerUI
 
-- A ServerUI by zJustMarcel
+_A ServerUI by zJustMarcel_
 
-[Fly System!]
-[GameMode System]
-[Heal & Feed System!]
+- Fly System!
+- GameMode System
+- Heal & Feed System!
 
 # My mcpe Server & my Discord Server!
 
