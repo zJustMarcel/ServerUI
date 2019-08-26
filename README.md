@@ -10,4 +10,6 @@ _A ServerUI by zJustMarcel_
 
 - IP: __**Maintenance**__<br>
 - PORT: __**Soon!**__<br>
-- Discord: __**Coming Soon!**__
+- Discord: __**Coming Soon!**__<br><br><br>
+[License](https://github.com/zJustMarcel/ServerUI/blob/master/LICENSE)
+
