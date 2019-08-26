@@ -8,6 +8,6 @@
 
 # My mcpe Server & my Discord Server!
 
-[IP:] __**Maintenance**__
-[PORT:] __**Soon!**__
-[Discord:] __**Coming Soon!**__
+- IP: __**Maintenance**__<br>
+- PORT: __**Soon!**__<br>
+- Discord: __**Coming Soon!**__
